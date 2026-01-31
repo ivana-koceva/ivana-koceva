@@ -5,7 +5,7 @@ I'm a software engineer passionate about <marK>backend development, cloud, and i
 - 💬 &nbsp; Ask me about **Linux & DevOps**
 - 💻 &nbsp; Connect with me on **[LinkedIn](https://www.linkedin.com/in/ivanakoceva/)**
 
-<br>
+&nbsp;
 
 ## 🔨&nbsp; Tools & Technologies
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
@@ -27,7 +27,7 @@ I'm a software engineer passionate about <marK>backend development, cloud, and i
 ![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white)
 ![Godot Engine](https://img.shields.io/badge/GODOT-%23FFFFFF.svg?style=for-the-badge&logo=godot-engine) 
 
-<br><br>
+&nbsp;
 
 ## ✨&nbsp; Github Stats
 ![](https://github-readme-stats.vercel.app/api?username=ivana-koceva&theme=dark&hide_border=false&include_all_commits=true&count_private=true)
