@@ -29,6 +29,4 @@ I'm a software engineer passionate about <marK>backend development, cloud, and i
 &nbsp;
 
 ## ✨&nbsp; Github Stats
-![](https://github-readme-stats.vercel.app/api?username=ivana-koceva&theme=dark&hide_border=false&include_all_commits=true&count_private=true)
-![](https://nirzak-streak-stats.vercel.app/?user=ivana-koceva&theme=dark&hide_border=false)
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=ivana-koceva&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+![](https://github-readme-streak-stats.herokuapp.com/?user=ivana-koceva&theme=dark&hide_border=false&include_all_commits=true&count_private=true)
